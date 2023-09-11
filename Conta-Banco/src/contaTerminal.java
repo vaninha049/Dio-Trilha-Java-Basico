@@ -4,7 +4,7 @@ public class contaTerminal {
   
     public static void main(String[] args) {
         // criando o objeto scanner
-        double saldo = 237.48;
+        double saldo = 700.00;
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
        
         System.out.println("ola, Digite seu nome");
